@@ -1,4 +1,4 @@
-![1](https://github.com/aea2608/rn-assignment4-11014168/assets/169605724/9bcb2a9a-1c80-49fd-b69d-5267cba0a07b)# rn-assignment4-11014168
+# rn-assignment4-11014168
 # React App with React Router v6
 
 ## Table of Contents
